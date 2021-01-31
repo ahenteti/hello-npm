@@ -1,6 +1,6 @@
 {
   "name": "@ahenteti/hello-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hello NPM from @ahenteti",
   "main": "index.js",
   "type": "module",
@@ -8,5 +8,9 @@
   "author": "Ahmed HENTETI (https://ahenteti.github.io)",
   "license": "MIT",
   "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahenteti/hello-npm.git"
   }
 }
